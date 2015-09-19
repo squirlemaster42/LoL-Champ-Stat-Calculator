@@ -12,4 +12,4 @@ public class MakeGui {
 		frame.setSize(width, height);
 		frame.setVisible(true);
 	}
-}
+} 
